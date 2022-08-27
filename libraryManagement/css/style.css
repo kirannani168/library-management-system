@@ -1,0 +1,15 @@
+
+.main_options button{
+  border: none;
+  background-color: brown;
+  color: white;
+  padding: 5%;
+  margin: 2%;
+  width: 250px;
+  font-size: larger;
+  cursor: pointer;
+}
+.side_sec img{
+  height: 300px;
+  width: 300px;
+}
